@@ -1,0 +1,50 @@
+header
+{
+    display: flex;
+    background-color: ivory;
+
+}
+.div1
+{
+display: flex;
+margin-right: 40px;
+padding-right: 40px;
+padding-left: 15px;
+padding-top: 50px;
+padding-bottom: 50px;
+background-color: grey;
+
+}
+.div_main
+{
+    background-color: aqua;
+    width: 80%;
+    padding: 10px;
+
+}
+.blank
+{
+    color: black;
+}
+hr
+{
+    height: 10px;
+    background-color: black;
+}
+a:hover
+{
+    color: hotpink;
+}
+a:visited
+{
+    color: yellow;
+}
+a:link
+{
+    color: black;
+}
+a:active
+{
+    color: blue;
+}
+--active --link --use link elements

@@ -1,0 +1,82 @@
+.titlebar
+{
+    display: flex;
+    flex-direction: row;
+    color: black;
+}
+.a1
+{
+    text-decoration: none;
+    font-size: 200%;
+    color: black;
+    padding-left: 35px;
+}
+.div1
+{ 
+    padding-top: 100px;
+    margin-left: 40%;
+}
+.center
+{
+    text-align: center;
+}
+.p1
+{
+    line-height: 150%; 
+    text-align: justify; 
+    padding-left: 400px;
+    padding-right: 400px;
+    font-size: 20px;
+
+}
+hr
+{
+    height: 10px;
+    background-color: black;
+    margin-bottom: 20px;
+
+}
+.blank
+{
+    color: black;
+    font-size: 12px;
+}
+.paragraphs
+{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    font-size: 45px;
+}
+a:hover
+{
+    color: white;
+}
+a:active
+{
+    color: blue;
+}
+a:link
+{
+    color: blue;
+}
+button
+{   margin-top: 100px;
+    display: inline-block;
+    flex-direction: row;
+    color: black;
+    margin-left: 120px;
+    height:45px;
+    width:45px
+}
+.footer1
+{
+
+    background-color: black;
+    margin-top: 30px; 
+    text-align: center; 
+    color:white;
+}
+textarea {
+    resize: none;
+}
